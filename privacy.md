@@ -1,4 +1,11 @@
-# FlappyPaws
+---
+layout: default
+title: Privacy Policy
+permalink: /privacy.html
+---
+# Privacy Policy
+
+FlappyPaws
 Flappy Paws iPhone Game
 
 
